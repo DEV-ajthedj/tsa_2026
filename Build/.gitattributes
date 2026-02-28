@@ -1,0 +1,5 @@
+. filter=lfs diff=lfs merge=lfs -text
+hghghg.data filter=lfs diff=lfs merge=lfs -text
+hghghg.framework.js filter=lfs diff=lfs merge=lfs -text
+hghghg.loader.js filter=lfs diff=lfs merge=lfs -text
+hghghg.wasm filter=lfs diff=lfs merge=lfs -text
